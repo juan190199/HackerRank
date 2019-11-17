@@ -38,6 +38,13 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		A99ACACA237ED2A400B34466 /* New Group */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = "New Group";
+			sourceTree = "<group>";
+		};
 		A9E3D2B9237C1A2400E2F854 = {
 			isa = PBXGroup;
 			children = (
@@ -57,6 +64,7 @@
 		A9E3D2C4237C1A2400E2F854 /* HackerRank_32 */ = {
 			isa = PBXGroup;
 			children = (
+				A99ACACA237ED2A400B34466 /* New Group */,
 				A9E3D2C5237C1A2400E2F854 /* main.cpp */,
 			);
 			path = HackerRank_32;
